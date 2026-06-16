@@ -1,4 +1,4 @@
-## Hi there 👋
+## Vamos a la playa
 
 <!--
 **jchin9607/jchin9607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
